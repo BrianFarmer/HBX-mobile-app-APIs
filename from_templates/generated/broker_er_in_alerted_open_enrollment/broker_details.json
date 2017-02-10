@@ -1,0 +1,46 @@
+{
+  "broker_agency": "Broker, 1 EE no roster",
+  "broker_name": "Bill",
+  "broker_clients": [
+    {
+      "employer_name": "Courageous Consulting, LLC",
+      "binder_payment_due": null,
+      "billing_report_date": "2017-02-01",
+      "active_general_agency": "Betadyne General Agency, Inc.",
+      "plan_years": [
+        {
+          "plan_year_begins": "2017-04-01",
+          "open_enrollment_begins": "2017-02-01",
+          "open_enrollment_ends": "2017-03-16",
+          "renewal_in_progress": true,
+          "renewal_application_available": "2016-12-23",
+          "renewal_application_due": "2017-03-13",
+          "state": "Renewing Enrolling",
+          "minimum_participation_required": 3,
+          "employees_enrolled": 0,
+          "employees_waived": 0,
+          "employees_terminated": 0
+        }
+      ],
+      "employees_total": 0,
+      "employer_details_url": "employer_details_0.json",
+      "employee_roster_url": "roster_0.json",
+      "contact_info": [
+        {
+          "first": "Bob",
+          "last": "Doe",
+          "phone": "",
+          "mobile": "202-468-6571",
+          "emails": [
+            "bob@courageous-consulting.com"
+          ],
+          "address_1": "",
+          "address_2": "",
+          "city": "",
+          "state": "",
+          "zip": ""
+        }
+      ]
+    }
+  ]
+}

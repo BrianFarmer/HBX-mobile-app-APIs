@@ -1,0 +1,68 @@
+{
+  "employer_name": "Courageous Consulting, LLC",
+  "binder_payment_due": null,
+  "billing_report_date": "2017-02-01",
+  "active_general_agency": "Betadyne General Agency, Inc.",
+  "plan_years": [
+    {
+      "plan_year_begins": "2017-06-01",
+      "open_enrollment_begins": "2017-04-01",
+      "open_enrollment_ends": "2017-04-15",
+      "renewal_in_progress": true,
+      "renewal_application_available": "2017-01-22",
+      "renewal_application_due": "2017-04-12",
+      "state": "Renewing Enrolling",
+      "minimum_participation_required": 3,
+      "plan_offerings": [
+        {
+          "benefit_group_name": "FULL-TIME EMPLOYEES",
+          "eligibility_rule": "First of the month following or coinciding with date of hire",
+          "health": {
+            "reference_plan_name": "UHC CHOICE PLUS POS GOLD 0 B",
+            "reference_plan_HIOS_id": "78606AB0440009-05",
+            "carrier_name": "United Health Care",
+            "plan_type": "POS",
+            "metal_level": "Gold",
+            "plan_option_kind": "single_plan",
+            "plans_by": "A Single Plan",
+            "plans_by_summary_text": "Reference Plan Only",
+            "employer_contribution_by_relationship": {
+              "employee": 50,
+              "spouse": null,
+              "domestic_partner": null,
+              "child_under_26": 0
+            },
+            "estimated_employer_max_monthly_cost": 6000,
+            "estimated_plan_participant_min_monthly_cost": 312,
+            "estimated_plan_participant_max_monthly_cost": 954
+          },
+          "dental": null
+        },
+        {
+          "benefit_group_name": "PART-TIME EMPLOYEES",
+          "eligibility_rule": "First of the month following or coinciding with date of hire",
+          "health": {
+            "reference_plan_name": "UHC CHOICE PLUS POS GOLD 0 B",
+            "reference_plan_HIOS_id": "78606AB0440009-05",
+            "carrier_name": "United Health Care",
+            "plan_type": "POS",
+            "metal_level": "Gold",
+            "plan_option_kind": "single_plan",
+            "plans_by": "A Single Plan",
+            "plans_by_summary_text": "Reference Plan Only",
+            "employer_contribution_by_relationship": {
+              "employee": 40,
+              "spouse": null,
+              "domestic_partner": null,
+              "child_under_26": 0
+            },
+            "estimated_employer_max_monthly_cost": 5880,
+            "estimated_plan_participant_min_monthly_cost": 292,
+            "estimated_plan_participant_max_monthly_cost": 934
+          },
+          "dental": null
+        }
+      ]
+    }
+  ]
+}
