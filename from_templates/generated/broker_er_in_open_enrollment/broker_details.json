@@ -16,7 +16,7 @@
           "renewal_application_available": "2016-12-23",
           "renewal_application_due": "2017-03-13",
           "state": "Renewing Enrolling",
-          "minimum_participation_required": 3,
+          "minimum_participation_required": 1,
           "employees_enrolled": 0,
           "employees_waived": 0,
           "employees_terminated": 0
