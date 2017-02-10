@@ -4,7 +4,8 @@
     "broker_empty",
     "broker_er_roster_empty",
     "broker_er_in_pending",
-    "broker_er_in_open_enrollment"
+    "broker_er_in_open_enrollment",
+    "broker_er_in_alerted_open_enrollment"
   ],
   "employers": [
     "er_roster_empty",
