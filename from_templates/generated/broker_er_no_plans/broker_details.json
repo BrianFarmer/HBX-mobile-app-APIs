@@ -1,5 +1,5 @@
 {
-  "broker_agency": "Broker, 1 EE no roster",
+  "broker_agency": "Broker, no plans",
   "broker_name": "Bill",
   "broker_clients": [
     {
@@ -7,34 +7,7 @@
       "binder_payment_due": null,
       "billing_report_date": "2017-02-01",
       "active_general_agency": "Betadyne General Agency, Inc.",
-      "plan_years": [
-        {
-          "plan_year_begins": "2016-02-19",
-          "open_enrollment_begins": null,
-          "open_enrollment_ends": "2016-01-31",
-          "renewal_in_progress": false,
-          "renewal_application_available": "2015-11-19",
-          "renewal_application_due": "2016-01-28",
-          "state": "Active",
-          "minimum_participation_required": 3,
-          "employees_enrolled": 0,
-          "employees_waived": 0,
-          "employees_terminated": 0
-        },
-        {
-          "plan_year_begins": "2017-02-19",
-          "open_enrollment_begins": "2016-12-19",
-          "open_enrollment_ends": "2017-01-31",
-          "renewal_in_progress": true,
-          "renewal_application_available": "2016-11-19",
-          "renewal_application_due": "2017-02-19",
-          "state": "Renewing Enrolling",
-          "minimum_participation_required": 3,
-          "employees_enrolled": 0,
-          "employees_waived": 0,
-          "employees_terminated": 0
-        }
-      ],
+      "plan_years": [],
       "employees_total": 0,
       "employer_details_url": "employer_details_0.json",
       "employee_roster_url": null,
